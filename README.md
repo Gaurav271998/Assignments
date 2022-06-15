@@ -1,2 +1,0 @@
-# Assignments
-ineuron Assignments
